@@ -1,3 +1,3 @@
-# js-kowm14
+# Chart Bar Simple
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-kowm14)
+Mini projeto criado para treinar HTML, CSS, JS. Desafio do FrontendMentor
